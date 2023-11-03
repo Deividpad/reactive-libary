@@ -1,0 +1,14 @@
+version: "5"
+services:
+  enggadda:
+    image: mongo:latest
+    container_name: "enggadda"
+    ports:
+      - 27017:27017
+  springbootdockercompose:
+    image: springbootdockercompose:latest
+    container_name: "springbootdockercompose"
+    ports:
+      - 8080:8080
+    links:
+      - enggadda

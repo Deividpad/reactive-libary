@@ -1,0 +1,12 @@
+com\santiagoposada\libraryreactive\LibraryReactiveApplicationTests.class
+com\santiagoposada\libraryreactive\routes\ResourceRouterTest.class
+com\santiagoposada\libraryreactive\usecase\UpdateUseCaseTest.class
+com\santiagoposada\libraryreactive\usecase\BorrowResourceUseCaseTest.class
+com\santiagoposada\libraryreactive\usecase\CreateResourceUseCaseTest.class
+com\santiagoposada\libraryreactive\usecase\ReturnUseCaseTest.class
+com\santiagoposada\libraryreactive\usecase\GetByCategoryUseCaseTest.class
+com\santiagoposada\libraryreactive\usecase\CheckAvailabilityUseCaseTest.class
+com\santiagoposada\libraryreactive\usecase\GetByTypeUseCaseTest.class
+com\santiagoposada\libraryreactive\usecase\GetAllUseCaseTest.class
+com\santiagoposada\libraryreactive\usecase\DeleteResourceUseCaseTest.class
+com\santiagoposada\libraryreactive\usecase\GetResourceByIdUseCaseTest.class
